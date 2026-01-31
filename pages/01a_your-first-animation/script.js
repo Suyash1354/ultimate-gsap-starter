@@ -11,6 +11,5 @@ gsap.to(".card",{
             duration:0.5    
             
         })
-
     }
 })
